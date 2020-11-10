@@ -1,0 +1,5 @@
+# MCU name
+MCU = STM32F303
+SPLIT_KEYBOARD = yes
+RGBLIGHT_ENABLE = yes
+
